@@ -9,4 +9,6 @@ Lab:
 
 2. Create Event hub inside the namespace:
 
+you can create multiple event hubs inside one namespace
+
 ![alt text](image-8.png)
