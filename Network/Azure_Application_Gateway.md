@@ -1,6 +1,10 @@
 ## Azure Application Gateway(Level 7)
 - web traffic load balancer that enables you to manage traffic to your web applications.(仅限相同的azure region)
 
+Web application firewall是其中一个feature
+
+![alt text](image-49.png)
+
 *概念图：*
 
 ![alt text](image-19.png)
