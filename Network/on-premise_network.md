@@ -6,6 +6,3 @@
 - Use a non-microsoft connectivity provider.
 - Connection between on-premise and Azure is prviate, traffic doesn't go through the internet.
 
-## Azure Virtual WAN
-
-![alt text](image-5.png)

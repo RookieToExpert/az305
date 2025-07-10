@@ -4,3 +4,7 @@ let users set policies to store data for a specified interval. When a time-based
 
 - **Legal hold policies**:
 store immutable data until the legal hold is explicitly cleared. When a legal hold is set, objects **can be created and read, but not modified or deleted**. **Premium Blob Storage** uses legal holds to support immutable storage.
+
+Supported storage account types:
+
+![alt text](image-22.png)

@@ -1,6 +1,8 @@
 ## Azure Front door(Level 7)
 - define, manage and monitor the global routing for your web traffic
 
+Web application firewall是其中一个feature(可以限速)
+https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?pivots=portal
 Lab:
 ## 1. Create two webapps(different regions)
 

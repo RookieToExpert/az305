@@ -1,5 +1,9 @@
 ## Azure Service Bus
 
+**(Messages can be send usiing JSON, XML, Apache Avro or Plain Text)**
+
+![alt text](image-33.png)
+
 ![alt text](image-2.png)
 
 ## Lab:
@@ -33,3 +37,5 @@ service bus namespace包含queues和topics：
 ![alt text](image-31.png)
 
 ![alt text](image-32.png)
+
+![alt text](image-34.png

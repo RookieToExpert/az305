@@ -25,3 +25,7 @@ SELECT COUNT(*) FROM orders WHERE status = 'delivered';
 ```
 
 ![alt text](image.png)
+
+或者清洗数据并写入synapse：
+
+![alt text](image-23.png)
