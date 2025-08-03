@@ -62,4 +62,5 @@ https://your-apim-name.azure-api.net/orders/submit
 
 直接用logic app和使用API management的区别：
 
-![alt text](image-9.png)
+<img width="706" height="406" alt="image" src="https://github.com/user-attachments/assets/f516ee86-f9ac-4d92-94f1-b2bbe544d041" />
+
