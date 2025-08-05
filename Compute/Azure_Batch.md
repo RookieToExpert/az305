@@ -38,3 +38,7 @@
     ![alt text](image-12.png)
     
     ![alt text](image-13.png)
+
+> 可以用azure CLI同时提交上千个task：
+
+<img width="974" height="414" alt="image" src="https://github.com/user-attachments/assets/b1e291e4-59a0-47c5-9ef6-f2adb50c0271" />
