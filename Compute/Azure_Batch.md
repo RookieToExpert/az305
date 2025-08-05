@@ -5,7 +5,7 @@
 
 ## Lab
 
-1. Create a Batch account along assosiicate it with a storage account:
+1. Create a Batch account along assosicate it with a storage account:
 
     ![alt text](image-3.png)
 
